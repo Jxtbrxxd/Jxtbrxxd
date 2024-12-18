@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jxtbrxxd
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me okonkwocp007@gmail.com
 
